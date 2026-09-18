@@ -168,6 +168,11 @@ Development roadmap:
 * Pandas
 * NumPy
 
+## Summary
+
+Smart Study Assistant AI is an intelligent learning support system that helps students improve academic performance through personalized study plans, progress tracking, and AI-powered recommendations. By analyzing academic performance data and study habits, the system identifies weak subject areas and suggests effective learning strategies, helping students study smarter and achieve better results.
+
+
 ### Author
 
 ABIONA ABD. HAMID
